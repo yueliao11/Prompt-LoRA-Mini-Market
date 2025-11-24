@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+  	"allowSyntheticDefaultImports": true,
+    "composite": true,
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "lib": ["esnext"],
+    "baseUrl": "./",
+    "paths": {
+      "@lib/*": ["lib/src/*"],
+      "@templates/*": ["html_templates/*"]
+    }
+  },
+  "rootDir": "lib/src",
+  "outDir": "dist",
+  "skipLibCheck": true,
+  "include": ["lib/src/**/*", "lib/tests/**/*"],
+  "exclude": ["node_modules", "dist"]
+}

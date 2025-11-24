@@ -1,0 +1,5 @@
+{
+    "installCommand": "bun install",
+    "buildCommand": "",
+    "devCommand": "bun run start"
+}
