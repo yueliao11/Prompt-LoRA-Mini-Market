@@ -1,0 +1,13 @@
+# Walrus Sites Mainnet singleton config for publishing to wal.app
+
+package: 0x26eb7ee8688da02c5f671679524e379f0b837a12f1d1d799f255b7eea260ad27
+general:
+  wallet_env: mainnet
+  walrus_context: mainnet
+  # Optional overrides:
+  # rpc_url: https://fullnode.mainnet.sui.io:443
+  # wallet: /Users/lmk/.sui/sui_config/client.yaml
+  # walrus_binary: ./walrus
+  # walrus_config: ./client_config.yaml
+  gas_budget: 500000000
+

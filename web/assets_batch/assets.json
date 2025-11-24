@@ -1,0 +1,14 @@
+[
+  {"name":"Cyberpunk City Prompts","kind":0,"price":100000000,"unsplash":"https://images.unsplash.com/photo-1485827404703-89b55fcc595e","desc":"A set of cyberpunk city prompts for midjourney/stable diffusion."},
+  {"name":"Vintage Portrait Prompts","kind":0,"price":120000000,"unsplash":"https://images.unsplash.com/photo-1519125323398-675f0ddb6308","desc":"Vintage portrait prompts with lighting and lens details."},
+  {"name":"Sci‑Fi Spaceship Blueprint","kind":0,"price":90000000,"unsplash":"https://images.unsplash.com/photo-1447433819943-74a20887a81e","desc":"Detailed spaceship structure prompts (hull, cockpit, engines)."},
+  {"name":"Anime Character Pack","kind":0,"price":150000000,"unsplash":"https://images.unsplash.com/photo-1520975916090-3105956dac38","desc":"Anime-style character prompts with pose & costume hints."},
+  {"name":"LoRA: Neon Streets V1","kind":1,"price":180000000,"unsplash":"https://images.unsplash.com/photo-1469474968028-56623f02e42e","desc":"LoRA for neon street scenes (demo file)."},
+  {"name":"LoRA: Portrait Soft Light","kind":1,"price":200000000,"unsplash":"https://images.unsplash.com/photo-1494790108377-be9c29b29330","desc":"LoRA for soft portrait lighting (demo file)."},
+  {"name":"LoRA: Mecha Armor V2","kind":1,"price":220000000,"unsplash":"https://images.unsplash.com/photo-1542751110-97427bbecf20","desc":"Mecha armor finetune (demo file)."},
+  {"name":"Architectural Minimalism","kind":0,"price":110000000,"unsplash":"https://images.unsplash.com/photo-1460353581641-37baddab0fa2","desc":"Minimalist architecture prompt pack."},
+  {"name":"Fantasy Forest","kind":0,"price":100000000,"unsplash":"https://images.unsplash.com/photo-1501785888041-af3ef285b470","desc":"Magical forest prompts with mood & fog presets."},
+  {"name":"Studio Food Shots","kind":0,"price":130000000,"unsplash":"https://images.unsplash.com/photo-1478144592103-25e218a04891","desc":"Food styling & studio lighting prompts."},
+  {"name":"Cinematic Night City","kind":0,"price":140000000,"unsplash":"https://images.unsplash.com/photo-1469474968028-56623f02e42e","desc":"Cinematic night city prompts (lens, shutter, iso)."},
+  {"name":"LoRA: Watercolor Landscapes","kind":1,"price":210000000,"unsplash":"https://images.unsplash.com/photo-1469474968028-56623f02e42e","desc":"Watercolor landscape finetune (demo)."}
+]

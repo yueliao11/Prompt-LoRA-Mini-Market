@@ -1,0 +1,27 @@
+{
+  "name": "prompt-lora-market",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "build:static": "next build",
+    "start": "next start",
+    "publish:walrus": "npm run build:static && ./site-builder-new --config ./sites-config.yaml --walrus-binary ./walrus --walrus-config ./client_config.yaml publish --epochs 1 ./out"
+  },
+  "dependencies": {
+    "next": "14.2.7",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "@mysten/dapp-kit": "0.14.20",
+    "@mysten/sui.js": "0.53.0",
+    "@tanstack/react-query": "5.51.1",
+    "zustand": "4.5.2"
+  },
+  "devDependencies": {
+    "typescript": "5.6.2",
+    "@types/node": "20.11.30",
+    "@types/react": "18.2.66",
+    "@types/react-dom": "18.2.22"
+  }
+}

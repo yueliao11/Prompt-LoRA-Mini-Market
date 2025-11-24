@@ -1,0 +1,12 @@
+---
+keystore:
+  File: "./.walrus-publisher-wallets/sui_0.keystore"
+external_keys: ~
+envs:
+  - alias: testnet
+    rpc: "https://fullnode.testnet.sui.io:443"
+    ws: ~
+    basic_auth: ~
+    chain_id: 4c78adac
+active_env: testnet
+active_address: "0xfa2ac5c985de55bc51a150e92d222b1bc759bb3556d2a5b5da0b210ee71efdaa"

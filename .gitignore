@@ -1,0 +1,21 @@
+# env files
+.env
+.env.*
+!env.example
+
+# node
+node_modules/
+
+# python
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# logs
+*.log
+
+# virtual env
+venv/
+.env/
