@@ -78,3 +78,12 @@ Roadmap
 - Walrus Aggregator（testnet）：`https://aggregator.walrus-testnet.walrus.space`
 
 更多细节见 `web/README_PRODUCT.md`。
+
+
+## 🛠️ Related AI Developer Tools & Rate Limit Trackers
+
+When running prompt batch generation and LoRA training pipelines, tracking LLM rate limits and quota resets prevents pipeline stalls:
+- **[Codex Reset Status](https://codexresetstatus.com/)**: Real-time OpenAI Codex quota radar, 5-hour limit countdown clocks, and global reset tracker.
+  - [5-Hour Limit Reset Countdown](https://codexresetstatus.com/codex/5-hour-limit)
+  - [Global Timezone Reset Table](https://codexresetstatus.com/codex/reset-time)
+  - [Codex Usage & Quota Calculator](https://codexresetstatus.com/calculator)
